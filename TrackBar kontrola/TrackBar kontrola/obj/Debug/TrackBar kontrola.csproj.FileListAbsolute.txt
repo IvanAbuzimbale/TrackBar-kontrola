@@ -1,0 +1,10 @@
+C:\Users\ivanm\source\repos\TrackBar kontrola\TrackBar kontrola\bin\Debug\TrackBar kontrola.exe.config
+C:\Users\ivanm\source\repos\TrackBar kontrola\TrackBar kontrola\bin\Debug\TrackBar kontrola.exe
+C:\Users\ivanm\source\repos\TrackBar kontrola\TrackBar kontrola\bin\Debug\TrackBar kontrola.pdb
+C:\Users\ivanm\source\repos\TrackBar kontrola\TrackBar kontrola\obj\Debug\TrackBar kontrola.csprojAssemblyReference.cache
+C:\Users\ivanm\source\repos\TrackBar kontrola\TrackBar kontrola\obj\Debug\TrackBar_kontrola.Form1.resources
+C:\Users\ivanm\source\repos\TrackBar kontrola\TrackBar kontrola\obj\Debug\TrackBar_kontrola.Properties.Resources.resources
+C:\Users\ivanm\source\repos\TrackBar kontrola\TrackBar kontrola\obj\Debug\TrackBar kontrola.csproj.GenerateResource.cache
+C:\Users\ivanm\source\repos\TrackBar kontrola\TrackBar kontrola\obj\Debug\TrackBar kontrola.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\TrackBar kontrola\TrackBar kontrola\obj\Debug\TrackBar kontrola.exe
+C:\Users\ivanm\source\repos\TrackBar kontrola\TrackBar kontrola\obj\Debug\TrackBar kontrola.pdb
